@@ -1,3 +1,5 @@
+![Cover](./marketplace.png)
+
 # Mini Marketplace / Service Booking Platform
 
 A JavaScript-powered freelance marketplace platform that allows users to browse, search, filter, and book services from various freelancers. This project showcases practical front-end development skills, interactive UI, and real-world application functionality.
