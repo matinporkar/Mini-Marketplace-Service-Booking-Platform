@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Freelancer Profile</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header>
+  <h1>Freelancer Profile</h1>
+  <nav>
+    <button type="button" id="cartBtn" style="margin-left: 26px;">Booking cart (0)</button>
+    <button type="button" id="backBtn">Back to Marketplace</button>
+  </nav>
+</header>
+
+<main class="profile-page">
+  <section class="profile-card">
+    
+    <div class="profile-image">
+      <img id="img" alt="User Profile">
+    </div>
+
+    <div class="profile-info">
+      <h2 id="name"></h2>
+      <p class="role" id="role"></p>
+
+      <div class="profile-meta">
+        <span id="location"></span>
+        <span id="experience"></span>
+        <span id="rate"></span>
+      </div>
+
+      <p class="bio" id="description"></p>
+
+      <p class="bio" id="skills"></p>
+
+      <button class="profile-btn" id="addToCart">Book Now</button>
+    </div>
+
+  </section>
+</main>
+
+
+<script src="./js/freelancer.js"></script>
+</body>
+</html>
