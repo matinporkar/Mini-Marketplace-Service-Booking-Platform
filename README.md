@@ -12,7 +12,7 @@ A JavaScript-powered freelance marketplace platform that allows users to browse,
 - Booking workflow for selecting and requesting services
 - Local storage management for user interactions
 - Responsive and modern UI design
-- Interactive charts for analytics (optional with Chart.js)
+- Interactive charts for analytics (Chart.js)
 - Detailed individual freelancer profile pages
   
 ---
@@ -23,7 +23,7 @@ A JavaScript-powered freelance marketplace platform that allows users to browse,
 - JavaScript (ES6+)
 - Fetch API (for data simulation)
 - LocalStorage
-- Chart.js (optional for analytics)
+- Chart.js
 
 ---
 
